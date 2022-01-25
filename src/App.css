@@ -2,7 +2,8 @@
   text-align: center;
 }
 
-header .header {
+header .header-title {
+  color: rgb(7, 32, 75);
   font-family: Helvetica , sans-serif;
   font-size: 2rem;
 }

@@ -2,8 +2,15 @@
   text-align: center;
 }
 
-header .header-title {
-  color: rgb(7, 32, 75);
-  font-family: Helvetica , sans-serif;
+body {
+  background: black;
+  color: white;
+}
+
+.header-title {
+  color: white;
+  font-family: Nunito , sans-serif;
   font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
 }

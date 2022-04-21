@@ -1,3 +1,5 @@
+// arquivo criado pela Trybe
+
 const USA = 'Estados Unidos';
 const URSS = 'URSS';
 

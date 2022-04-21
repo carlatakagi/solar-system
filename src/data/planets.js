@@ -1,3 +1,5 @@
+// arquivo criado pela Trybe
+
 import MercurioImg from '../images/Mercurio.png';
 import VenusImg from '../images/Venus.png';
 import TerraImg from '../images/Terra.png';

@@ -1,12 +1,11 @@
 <h1 align="center">
-     <a href="#" alt="blog"> Solar System </a>
+     🪐<a href="#" alt="blog"> Solar System </a>🪐
 </h1>
-<h3 align="center">
+<h2 align="center">
 	🚀 Concluído 🚀
-</h3>
+</h2>
 
 <br>
-
 
 Tabela de conteúdos
 =================
@@ -28,8 +27,6 @@ Tabela de conteúdos
    Aplicação desenvolvida em React que mostra os planetas do Sistema Solar, projeto realizado durante o curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/).
 
 ---
-
-<br>
 
 ## ⚙️ Habilidades desenvolvidas
 
@@ -59,8 +56,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React](https://pt-br.reactjs.org/)**
 
 ---
-<br>
-
 ## 🚀 Como executar o projeto
 #### 🧭 Rodando a aplicação
 
@@ -79,6 +74,7 @@ $ npm install
 $ npm start
 
 ```
+---
 
 ## 🎨 Layout
 
@@ -88,8 +84,6 @@ Conheça a aplicação:
   <img alt="Página que mostra os planetas do Sistema Solar" src="./solarsystem.gif">
 </a>
 
----
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlatakagi/instagram-page?color=%2304D361">
   
@@ -97,8 +91,7 @@ Conheça a aplicação:
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlatakagi/instagram-page">
   </a>
     
-
-   <a href="https://github.com/carlatakagi/instagram-page/stargazers">
+  <a href="https://github.com/carlatakagi/instagram-page/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/carlatakagi/instagram-page?style=social">
 
   </a>
@@ -111,7 +104,6 @@ Conheça a aplicação:
 ## 🦸 Autora
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70762111?v=4" width="100px;" alt=""/>
- <br />
  <sub><b>Carla Lurie Takagi</b></sub>
  <br />
 
